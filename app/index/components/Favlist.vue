@@ -16,6 +16,6 @@
 
 <style>
     html{
-        background: #fff;
+        background: #ffaaaa;
     }
 </style>
